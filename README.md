@@ -1,6 +1,5 @@
 ## Updated for Swift 4
 Requires Xcode 9 and Swift 4.
-
 ## Installation
 Drop in the Spring folder to your Xcode project (make sure to enable "Copy items if needed" and "Create groups").
 
